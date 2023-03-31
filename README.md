@@ -1,7 +1,5 @@
 # KalkulacjaPKBrozniczkowe
 
-A university project made by /martynix and /abeestungme .
-
 Projekt dotyczy praktycznego zastosowania równań różniczkowych zwyczajnych w prognozowaniu wzrostu PKB. Przy wykorzystaniu danych z data.worldbank.org obliczamy prognozowane PKB dla dowolnego kraju. Zakładamy przy tym, że zarówno za podstawowe PKB, jak i za współczynnik wzrostu przyjęto te z 2021 roku. 
 
 # Zastosowane równanie różniczkowe
@@ -31,3 +29,5 @@ Aby lepiej zobrazować wyniki, sporządzono wykresy PKB (GDP) w zależności od 
 ![](https://user-images.githubusercontent.com/112055662/221303439-3c39bedd-e750-4a11-a560-680ba11fa369.png)
 
 ![](https://user-images.githubusercontent.com/112055662/221303448-a8907d7b-1cce-49e2-8c80-d90c90f74739.gif)
+
+A university project made by /martynix and /abeestungme .
