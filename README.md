@@ -21,7 +21,7 @@ Dodatkowo, PKB podane jest w dolarach.
 Zaprezentujemy działanie kodu na danych z Polski na 10 lat do przodu.
 ![](https://user-images.githubusercontent.com/112055662/221304318-bb29cddc-3b5a-43d3-b582-1989361bacb9.png)
 
-#Wykresy 
+# Wykresy 
 Aby lepiej zobrazować wyniki, sporządzono wykresy PKB (GDP) w zależności od roku:
 
 ![](https://user-images.githubusercontent.com/112055662/221303432-d13c34c9-929c-48fe-9be3-50e445b7a977.png)
